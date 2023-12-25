@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... Nothing or Everything ![image](https://github.com/zhaoguangyuan123/zhaoguangyuan123/assets/48136187/7b885f8b-503c-46dc-b6ee-edc012bd99b7)
+.
+
+- 📫 How to reach me: zhaoguangyuan2021@gmail.com  If you want to chat about research or anything. 
+
 <!--
 **zhaoguangyuan123/zhaoguangyuan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
